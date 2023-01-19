@@ -1,0 +1,18 @@
+{
+  "name": "blackstone_eit_exercise_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app",
+    "test": "dotenv -e test.env mocha"
+  },
+  "author": "TonyNabil",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "csv-parser": "^3.0.0",
+    "dotenv-cli": "^7.0.0",
+    "mocha": "^10.2.0"
+  }
+}

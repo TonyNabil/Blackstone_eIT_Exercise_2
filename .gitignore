@@ -1,0 +1,8 @@
+./node_modules/
+./node_module
+node_modules/
+package-lock.json
+0_input.csv
+1_input.csv
+0_test_input.csv
+1_test_input.csv
